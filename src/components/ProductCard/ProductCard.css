@@ -1,0 +1,7 @@
+.product-card {
+  padding: 20px;
+  border: 2px solid lightcoral;
+}
+.active {
+  border: 2px solid rgb(128, 240, 162);
+}
